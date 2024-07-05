@@ -1,7 +1,7 @@
 # Timer Focus
 
 Aplicação web simples para ajudar os usuários a gerenciar seu tempo de forma eficiente, utilizando a técnica Pomodoro. 
-A interface é intuitiva e permite que o usuário configue os minutos de acordo com sua necessidade.
+A interface é intuitiva e permite que o usuário configure os minutos de acordo com sua necessidade.
 
 # Funcionalidades
 - Sessão de foco: Inicie um timer para uma sessão de foco (Padrão de 25 minutos)
